@@ -1,0 +1,8 @@
+name: BankSystem
+author: Zercrasht
+version: 1.0
+main: at.zercrasht.bank.BankSystem
+depend:
+  - Vault
+commands:
+  bank:
